@@ -9,3 +9,6 @@ git add .
 git commit -m "commit message"
 git push
 ```
+
+![Tux](holy-roman.png)
+
