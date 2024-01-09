@@ -10,6 +10,5 @@ git commit -m "commit message"
 git push
 ```
 
-![Tux](https:%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffaa16f22-b10a-4382-a754-8d46fbadefdd_1786x940.png)
 ![Tux](1856399288-portal-2_00254689.jpg)
 ![Tux](holy-roman.png)
