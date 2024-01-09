@@ -10,5 +10,5 @@ git commit -m "commit message"
 git push
 ```
 
+![Tux](https:%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffaa16f22-b10a-4382-a754-8d46fbadefdd_1786x940.png)
 ![Tux](holy-roman.png)
-![Tux]('d985b6k-737d33d6-f54f-4f3d-8ce1-386a88430b35.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7')
