@@ -10,5 +10,5 @@ git commit -m "commit message"
 git push
 ```
 
-![Tux](1856399288-portal-2_00254689.jpg)
+![Tux](b79.png)
 ![Tux](holy-roman.png)
